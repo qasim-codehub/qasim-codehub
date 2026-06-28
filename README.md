@@ -1,16 +1,43 @@
-## Hi there 👋
+ Hi there!  I'm Muhammad Qasim
 
-<!--
-**qasim-codehub/qasim-codehub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science graduate who enjoys building software and learning new technologies. Most of my time is spent working on Flutter apps, exploring networking concepts, and improving my programming skills. I like solving practical problems by creating projects that are both useful and easy to use.
 
-Here are some ideas to get you started:
+**About Me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Computer Science Graduate
+Flutter Mobile App Developer
+Comfortable with Python, C++, and PHP
+Experience with MySQL and Firebase
+Interested in Networking, IT Infrastructure, and Cloud Computing
+Hands-on experience with Cisco routing and switching through CCNA labs
+Familiar with Microsoft Azure services
+Always learning and building new projects
+
+**Tech Stack**
+
+Languages: Python, C++, PHP, HTML, CSS
+
+Mobile Development: Flutter, Firebase
+
+Database: MySQL, Firebase Firestore
+
+Networking: Cisco Routing, Switching, TCP/IP, VLANs
+
+Cloud & IT: Microsoft Azure, Windows Administration
+
+## Projects
+
+Here are some of the projects I've worked on:
+
+Child Monitoring System
+Student Management System
+PDF Maker (Camera, Gallery & Document to PDF)
+E-Commerce Website
+
+I'm always looking for opportunities to learn from real-world projects and improve my skills as a software developer.
+
+## Let's Connect
+
+* LinkedIn: linkedin.com/in/muhammad-qasim007
+* GitHub: github.com/qasim-codehub
+* Email: qasimnazim655@gmail.com
